@@ -78,7 +78,7 @@ Azure portal を使用してロールにユーザーとグループを割り当�
 
 1. Graph Exploer https://developer.microsoft.com/ja-jp/graph/graph-explorer にアクセスします。
 
-1. 左側の認証ボタンをクリックして、Gredy のアカウントで認証します。
+1. 左側の認証ボタンをクリックして、Grady のアカウントで認証します。
 
 1. **要求されているアクセス許可** で内容を確認し、**承諾** をクリックします。これにより、ユーザーの個人情報に対して、Graph Explorer がアクセス可能になります。
 
