@@ -41,7 +41,7 @@ ToU ポリシーを作成して組織に適用する必要があります。
 
 1. **「利用規約のドキュメント ボックス」** を選択し、完成した利用規約の PDF を参照して選択します。
 
-   **提供される ToU ファイル** - github リポジトリ AllFiles/Labs/Lab26 を参照して、このラボで使用するためのサンプルの利用規約 PDF ドキュメントを入手します。
+   **提供される ToU ファイル** - github リポジトリ https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Allfiles/Labs/Lab26/Contoso_TermsOfUse.pdf を参照して、このラボで使用するためのサンプルの利用規約 PDF ドキュメントを入手します。
 
 1. 利用規約のドキュメントの言語として **「英語」** を選択します。
 
