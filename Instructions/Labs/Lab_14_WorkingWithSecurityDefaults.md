@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '14 - Azure AD の Multi-Factor Authentication を有効にする'
     learning path: '02'
