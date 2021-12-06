@@ -15,7 +15,7 @@ lab:
 
 ## ゲスト ユーザーを一括招待する
 
-1. 組織のユーザー管理者アカウントで、[https://portal.azure.com](https://portal.azure.com) にサインインします。
+1. [https://portal.azure.com](https://portal.azure.com) にグローバル管理者としてサインインします。
 
 1. 左側のナビゲーション ウィンドウから、**「Azure Active Directory」** を選択します。
 
