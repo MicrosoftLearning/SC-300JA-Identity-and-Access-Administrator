@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '29 - Azure AD ロール用に Privileged Identity Management を構成する'
     learning path: '04'
