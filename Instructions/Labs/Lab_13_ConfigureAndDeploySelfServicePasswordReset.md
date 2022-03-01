@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '13 - Azure AD のパスワード リセットのセルフサービスを有効にする'
     learning path: '02'
